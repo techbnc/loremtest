@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Hello_Dolly
- * @version 1.7.2
+ * @version 1.7.7
  */
 /*
 Plugin Name: Hello Lorem Ipsum
 Plugin URI: http://wordpress.org/plugins/hello-dolly/
-Description: In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.
-Author: Matt Mullenweg
-Version: 1.7.2
+Description: Hellooow In publishing and graphic design, the Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.
+Author: BenchieT
+Version: 1.7.7
 Author URI: http://ma.tt/
 */
 
@@ -40,7 +40,7 @@ So, golly, gee, fellas
 Have a little faith in me, fellas
 Dolly, never go away
 Promise, you'll never go away
-Dolly'll never go away again";
+Dolly'll never go away again agaaaain";
 
 	// Here we split it into lines.
 	$lyrics = explode( "\n", $lyrics );
@@ -74,9 +74,9 @@ function dolly_css() {
 	<style type='text/css'>
 	#dolly {
 		float: right;
-		padding: 5px 10px;
+		padding: 6px 12px;
 		margin: 0;
-		font-size: 12px;
+		font-size: 15px;
 		line-height: 1.6666;
 	}
 	.rtl #dolly {
@@ -89,8 +89,8 @@ function dolly_css() {
 		#dolly,
 		.rtl #dolly {
 			float: none;
-			padding-left: 0;
-			padding-right: 0;
+			padding-left: 10px;
+			padding-right: 10px;
 		}
 	}
 	</style>
