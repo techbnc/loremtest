@@ -1,7 +1,7 @@
 <?php
 /**
  * @package Hello_Dolly
- * @version 1.7.7
+ * @version 1.7.8
  */
 /*
 Plugin Name: Hello Lorem Ipsum
