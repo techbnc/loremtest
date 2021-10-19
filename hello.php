@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Hello_Dolly
- * @version 1.7.8
+ * @version 1.7.9
  */
 /*
 Plugin Name: Hello Lorem Ipsum
 Plugin URI: http://wordpress.org/plugins/hello-dolly/
 Description: Hellooow In publishing and graphic design, the Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.
 Author: BenchieT
-Version: 1.7.7
+Version: 1.7.9
 Author URI: http://ma.tt/
 */
 
